@@ -1,3 +1,4 @@
-print('Hello world')
+def f(x):
+    return {x, 0}
 
-print('Hi Ha') # comment
+print(f(1))
